@@ -1,4 +1,4 @@
 # demo-01
 first repo
 <br>
-aurthor : Krishna Nikam
+aurthor : Krishna ka college 
